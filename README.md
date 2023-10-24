@@ -17,7 +17,7 @@
 
 ## 🛠 Integrações
 - API de busca de CEP.
-- Envio de pedido pppor whatsApp.
+- Envio de pedido por whatsApp.
 - Pedido de reserva por Whatsapp.
 
 ## 🤍 Contato
