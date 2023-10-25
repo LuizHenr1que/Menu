@@ -2,7 +2,7 @@
 
 ![preview](screen.png)
 >Layout totalmente rensponsivo |
->Carrrinho de compras |
+>Carrinho de compras |
 >Cardápio completo |
 >Link para fazer reservas.
 
