@@ -1,9 +1,9 @@
 # Menu Online
 
 ![preview](screen.png)
->Layout totalmente rensponsivo.
->Carrrinho de compras.
->Cardápio complexo.
+>Layout totalmente rensponsivo |
+>Carrrinho de compras |
+>Cardápio completo |
 >Link para fazer reservas.
 
 [🔗Clique aqui para acessar](https://luizhenr1que.github.io/Menu/)
